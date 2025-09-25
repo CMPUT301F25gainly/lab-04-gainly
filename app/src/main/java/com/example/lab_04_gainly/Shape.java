@@ -1,6 +1,6 @@
 package com.example.lab_04_gainly;
 
-public class Shape {
+public abstract class Shape {
     private int x;
     private int y;
     private String color = "black";
