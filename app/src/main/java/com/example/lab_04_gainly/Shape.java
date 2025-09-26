@@ -3,7 +3,7 @@ package com.example.lab_04_gainly;
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "purple";
+    String color = "orange";
     public Shape() {
         this.x = 0;
         this.y = 0;
