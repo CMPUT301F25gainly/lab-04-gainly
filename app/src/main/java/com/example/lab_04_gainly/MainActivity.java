@@ -1,4 +1,4 @@
-package com.example.lab_04_gainly;
+gipackage com.example.lab_04_gainly;
 
 import android.os.Bundle;
 
